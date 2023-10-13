@@ -1,0 +1,24 @@
+{
+    "files.associations": {
+        "unistd.h": "c",
+        "types.h": "c",
+        "stat.h": "c",
+        "stdio.h": "c",
+        "system_error": "c",
+        "stdlib.h": "c",
+        "*.tcc": "c",
+        "string.h": "c",
+        "mman.h": "c",
+        "memory.h": "c",
+        "pidqueue.h": "c",
+        "taskqueue.h": "c",
+        "functions.h": "c",
+        "myconst.h": "c",
+        "mytypes.h": "c",
+        "array": "c",
+        "deque": "c",
+        "vector": "c",
+        "string_view": "c",
+        "stdbool.h": "c"
+    }
+}
